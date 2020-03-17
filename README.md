@@ -47,7 +47,6 @@ $ python wc.py -x " "
 
 ## Running Screenshot
 
-![image](https://github.com/P4XL/Word-Count/blob/master/image/command.png)
 ![image](https://github.com/P4XL/Word-Count/blob/master/image/gui-display.png)
 
 ## Bugs

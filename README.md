@@ -47,8 +47,7 @@ $ python wc.py -x " "
 
 ## Running Screenshot
 
-![image](./image/command.PNG)
-![image](./image/gui-display.PNG)
+![image](https://github.com/P4XL/Word-Count/blob/master/image/gui-display.png)
 
 ## Bugs
 * **Target file is needed when on GUI mode.**

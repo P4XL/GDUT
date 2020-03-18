@@ -19,13 +19,15 @@ Type "python wc.py [-argument] [-object]
 ```
 ### Ordinary usage
 ```
-$$ -argument
+$ -argument
         𠃊 -c    {Returns the number of characters in [object]}
         𠃊 -w    {Returns the number of words in [object]}
         𠃊 -l    {Returns the number of lines in [object]}
         𠃊 -a    {Returns more complex 
                  (code line/blank line/comment line)}
         𠃊 -x    {Display graphical user interface}
+$ -object
+        𠃊 Any document type files is fine (*.c, *.py and etc.)
 ```
 
 ### Extra usage
